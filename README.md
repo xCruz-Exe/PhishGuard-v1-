@@ -6,8 +6,6 @@ PhishGuard is a high-performance, next-generation phishing detection web applica
 > **A Note from the Developer (Cruz):**
 > This project was built primarily as a learning journey. I don't claim to be an expert in cyber security or advanced web development yet, but I created this to explore how heuristic engines and security APIs work. I'm constantly learning and would love to hear any feedback or suggestions to improve this project!
 
-![PhishGuard Preview](https://via.placeholder.com/1200x600/070b14/6366f1?text=PhishGuard+v1+Analysis+Dashboard)
-
 ## ✨ Features
 
 - **Dual-Engine Analysis**: Combines local heuristic pattern recognition with global threat intelligence via VirusTotal.
